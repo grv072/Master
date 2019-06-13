@@ -5,8 +5,9 @@ public class P1
 	{
 	int a = 10;
 	int b = 20;
-	int c = a+b;
-	System.out.println("The sum ="+c);
+	int c = b/a
+	
+	System.out.println("Divide="+c);
 
 }
 }
